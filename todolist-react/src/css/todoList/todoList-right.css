@@ -1,0 +1,35 @@
+.todolist-right{
+    min-height: 85vh;
+    background-color: white;
+    border-radius: 10px;
+}
+.todolist-right .input-group{
+    width: 100%;
+}
+.todolist-title-right{
+    padding: 10px;
+    font-size: 20px;
+}
+.btn-sort{
+    float: right;
+}
+.todo-text{
+    width: 100%;
+    cursor: text;
+    border-bottom: 1px solid rgb(221,221,221);
+}
+.icon-add,.checkbox{
+    width: 16px;
+    height: 16px;
+}
+.deleteImg{
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#calendar{
+    margin-top: 5px;
+    display: none;
+}

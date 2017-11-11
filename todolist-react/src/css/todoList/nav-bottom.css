@@ -1,0 +1,8 @@
+.nav-bottom{
+    position: fixed;
+    bottom: 0;
+    right: 25%;
+}
+.pagination>li>a, .pagination>li>span{
+    color: black;
+}

@@ -1,0 +1,25 @@
+.main-div{
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.btn{
+    margin:10px 5px 0 0;
+}
+.color-red,.l1{
+    background-color: rgb(169,68,66);
+}
+.color-green,.l2{
+    background-color: rgb(230,244,216);
+}
+.color-blue{
+    background-color: rgb(217,237,247);
+}
+.color-gray,.l3{
+    border: 1px solid rgb(239,239,239);
+}
+.color-gray:hover{
+    background-color: rgb(241,241,241);
+    transition: .5s;
+}
+
