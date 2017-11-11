@@ -39,3 +39,7 @@
 8. 待办事项优先级排序
 
 ![待办事项优先级排序](https://04ke.cn/result/sort.gif "展示")
+
+## PS:
+
+从未接触过react及django系列,刚从vue转过来,做的很粗糙,欢迎点评指教~
