@@ -6,6 +6,10 @@
 1. todolist-react: react客户端
 2. todolist-django: django服务端
 
+#install
+
+cd todolist-django 跑起来就可以了
+
 # 功能列表
 
 1. 待办事项展示
