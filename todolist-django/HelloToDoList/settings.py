@@ -107,6 +107,7 @@ TEMPLATES = [
     },
 ]
 
+# WSGI_PassAuthorization = True
 WSGI_APPLICATION = 'HelloToDoList.wsgi.application'
 
 
@@ -148,17 +149,12 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
 
-IMG_URL = '/img/'
-
-IMGFILES_DIRS = [
-    os.path.join(BASE_DIR, 'img')
-]
 
 REST_FRAMEWORK = {
-    # 使用Django的标准`django.contrib.auth`权限管理类,
-    # 或者为尚未认证的用户，赋予只读权限.
-    'DEFAULT_PERMISSION_CLASSES': [
-        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
-    ]
+    # 'DEFAULT_PERMISSION_CLASSES': [
+    #     'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    # ]
 }
+
+APPEND_SLASH = False
 
