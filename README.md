@@ -45,6 +45,10 @@
 
 ![待办事项优先级排序](https://04ke.cn/todolist/sort.gif "排序")
 
+9. Django Rest Framework
+
+![Django Rest Framework](https://04ke.cn/todolist/django-list.png "django")
+
 ## PS:
 
 从未接触过react及django系列,刚从vue转过来,做的很粗糙,欢迎点评指教~
