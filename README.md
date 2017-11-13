@@ -8,7 +8,8 @@
 
 # install
 
-cd todolist-django 跑起来就可以了
+1. cd todolist-django
+2. python manage.py runserver 端口号
 
 # 功能列表
 
@@ -47,3 +48,9 @@ cd todolist-django 跑起来就可以了
 ## PS:
 
 从未接触过react及django系列,刚从vue转过来,做的很粗糙,欢迎点评指教~
+
+## 收获:
+
+1. 对django系列框架有了一定了解，也渐渐熟悉，自己的后端技术栈又有增加。
+2. 学习react的时候踩了很多坑，不过有了VUE和微信小程序的基础还是很容易熟悉语法的
+3. 对前后端分离有了更深的理解。
