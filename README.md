@@ -9,7 +9,7 @@
 # install
 
 1. cd todolist-django
-2. python manage.py runserver 端口号
+2. python manage.py runserver 8000
 
 # 功能列表
 
